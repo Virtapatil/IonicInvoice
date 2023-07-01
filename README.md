@@ -1,14 +1,19 @@
-# InvoiceApp
-ionic invoice app with angular
+# React Invoice Generator
 
-###
-To run the project clone the project and change the directory 
-#run the following command
-###
-npm install && ionic serve
-###
-1. We can add items in cart. Until all the details are filled the add button will be disabled.
-2. If we try to add same item it will show error in toast bar on top.
-3. In cart section we can increase or decrease the quantity
-4. The total amount gets updated according to the quantity.
-5. For navigating to cart section bottom tab bar is used.
+A web application for generating invoices, built using React, provides an efficient and user-friendly solution for businesses to create and manage invoices. With its intuitive interface, users can easily input customer information, add items and services, and calculate totals with automatic tax and discount calculations. The app allows users to print invoices directly from the app, streamlining the invoicing process.
+
+### Live Demo
+https://react-invoice-maker.netlify.app/
+
+### Screenshot
+<img src="https://i.ibb.co/3R5JQnv/invoice-generator.png" alt="invoice-generator" border="0">
+
+### Installation
+
+```
+git clone https://github.com/fasilofficial/react-invoice-generator.git
+
+npm install
+
+npm start
+```
